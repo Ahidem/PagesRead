@@ -1,0 +1,57 @@
+body {
+    background-image: url("brain.jpg");
+    background-size: cover;
+    font-family: Roboto, Oxygen, Ubuntu, Cantarell,
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+
+.container {
+    background: white;
+    max-width: 40%;
+    margin: auto;
+    border: 3px solid grey;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:grey 
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:paleVioletRed;
+}
+
+h3 {
+    font-size: 10x;
+    float:right;
+    
+
+}
+
+button {
+    border: 1px solid ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: burlywood;
+}
+
+#save-btn {
+    background: darkgoldenrod;
+}
+
